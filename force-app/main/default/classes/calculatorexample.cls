@@ -5,5 +5,9 @@ public with sharing class calculatorexample {
             z=x-y;
         }
 
+            public static void add(interger x, interger y)
+            {
+                z=x+y;
+            }
     }
 }
